@@ -1,0 +1,206 @@
+{
+  "indexes": [
+    {
+      "collectionGroup": "Notes",
+      "queryScope": "COLLECTION",
+      "fields": [
+        {
+          "fieldPath": "Usuario",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "Date",
+          "order": "DESCENDING"
+        }
+      ]
+    },
+    {
+      "collectionGroup": "Notes",
+      "queryScope": "COLLECTION",
+      "fields": [
+        {
+          "fieldPath": "Usuario",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "Ordem",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "Date",
+          "order": "ASCENDING"
+        }
+      ]
+    },
+    {
+      "collectionGroup": "Tree",
+      "queryScope": "COLLECTION",
+      "fields": [
+        {
+          "fieldPath": "Root",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "Nivel",
+          "order": "ASCENDING"
+        }
+      ]
+    },
+    {
+      "collectionGroup": "Notes",
+      "queryScope": "COLLECTION",
+      "fields": [
+        {
+          "fieldPath": "Tree1",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "Date",
+          "order": "ASCENDING"
+        }
+      ]
+    },
+    {
+      "collectionGroup": "Notes",
+      "queryScope": "COLLECTION",
+      "fields": [
+        {
+          "fieldPath": "LinkX",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "Date",
+          "order": "ASCENDING"
+        }
+      ]
+    },
+    {
+      "collectionGroup": "Notes",
+      "queryScope": "COLLECTION",
+      "fields": [
+        {
+          "fieldPath": "Usuario",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "Week",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "Tree1",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "Date",
+          "order": "ASCENDING"
+        }
+      ]
+    },
+    {
+      "collectionGroup": "Notes",
+      "queryScope": "COLLECTION",
+      "fields": [
+        {
+          "fieldPath": "LinkX",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "Date",
+          "order": "DESCENDING"
+        }
+      ]
+    },
+    {
+      "collectionGroup": "Notes",
+      "queryScope": "COLLECTION",
+      "fields": [
+        {
+          "fieldPath": "LinkId",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "Date",
+          "order": "DESCENDING"
+        }
+      ]
+    },
+    {
+      "collectionGroup": "Notes",
+      "queryScope": "COLLECTION",
+      "fields": [
+        {
+          "fieldPath": "Usuario",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "Ordem",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "Date",
+          "order": "DESCENDING"
+        }
+      ]
+    },
+    {
+      "collectionGroup": "Tree",
+      "queryScope": "COLLECTION",
+      "fields": [
+        {
+          "fieldPath": "Nivel",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "Ordem",
+          "order": "ASCENDING"
+        }
+      ]
+    },
+    {
+      "collectionGroup": "Notes",
+      "queryScope": "COLLECTION",
+      "fields": [
+        {
+          "fieldPath": "Usuario",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "Date",
+          "order": "ASCENDING"
+        }
+      ]
+    },
+    {
+      "collectionGroup": "Notes",
+      "queryScope": "COLLECTION",
+      "fields": [
+        {
+          "fieldPath": "Usuario",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "Tree1",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "Date",
+          "order": "ASCENDING"
+        }
+      ]
+    },
+    {
+      "collectionGroup": "Notes",
+      "queryScope": "COLLECTION",
+      "fields": [
+        {
+          "fieldPath": "idTree",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "Date",
+          "order": "ASCENDING"
+        }
+      ]
+    }
+  ]
+}

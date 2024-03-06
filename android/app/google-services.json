@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "241042401372",
+    "project_id": "schedule-da0ad",
+    "storage_bucket": "schedule-da0ad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:241042401372:android:763c03e151145600b09e99",
+        "android_client_info": {
+          "package_name": "com.schedule.schedule"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "241042401372-lfk9qqbd0vv7sh128q1lih6gic947rli.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.schedule.schedule",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "241042401372-gt8k15gq1r3mj27dnch1hnvck6gmdt0c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBELa-wNLeecvG2oabeCY-24b6NJRlKaMQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "241042401372-gt8k15gq1r3mj27dnch1hnvck6gmdt0c.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "241042401372-l1a6dphfaga0ngnbfk27rqscd8s1sh4r.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.schedule.schedule"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

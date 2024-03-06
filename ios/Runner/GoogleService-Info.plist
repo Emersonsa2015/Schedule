@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>241042401372-l1a6dphfaga0ngnbfk27rqscd8s1sh4r.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.241042401372-l1a6dphfaga0ngnbfk27rqscd8s1sh4r</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>241042401372-lfk9qqbd0vv7sh128q1lih6gic947rli.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAAyd1W8tZ-_iUMtHE_j0s6ctUG-VaDpeA</string>
+	<key>GCM_SENDER_ID</key>
+	<string>241042401372</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.schedule.schedule</string>
+	<key>PROJECT_ID</key>
+	<string>schedule-da0ad</string>
+	<key>STORAGE_BUCKET</key>
+	<string>schedule-da0ad.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:241042401372:ios:e44312387643c250b09e99</string>
+</dict>
+</plist>
